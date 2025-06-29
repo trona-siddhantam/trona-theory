@@ -101,14 +101,5 @@
 
 ---
 
-## 🧪 What’s Next?
-
-- Add a `theory.pdf` or `whitepaper.md`
-- Create blog articles or a Substack from this
-- Invite theoretical physicists to critique or build mathematical formalism
-- Publish on arXiv, viXra, or public peer platforms
-
----
-
 **© 2025 — Trōṇa Siddhāntam (Pluck Theory)**  
 Crafted with passion, logic, and resonance.
