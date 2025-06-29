@@ -1,5 +1,13 @@
-# Trōṇa Siddhāntam (Pluck Theory)  
+# Trōṇa Siddhāntam (Pluck Theory)
+
 *A Unified Wave-Resonance Ontology of Reality*
+
+---
+
+Trōṇa Siddhāntam proposes a new way to understand the universe: everything is made of waves resonating in a fundamental medium called the Tarangi. Particles, forces, space, time, and even gravity emerge naturally from these wave interactions.
+
+---
+
 
 **Author**: Trōṇa Tanrangi  
 **Email**: tronatheory@gmail.com  
