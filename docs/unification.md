@@ -41,12 +41,17 @@ All phenomena (particles, forces, spacetime, time) **emerge from resonant wave i
 
 All interactions are governed by a **nonlinear wave equation**, such as:
 
-\[
+## Core Equation
+
+$$
 \frac{\partial^2 \Phi}{\partial t^2} - c^2 \nabla^2 \Phi + V(\Phi) = 0
-\]
+$$
 
-Where \( \Phi \) is the wave function in the Tarangi substrate.
+- \( \Phi \): Oscillation state of the Tarangi substrate  
+- \( V(\Phi) \): Nonlinear interaction potential  
+- \( c \): Propagation speed of fundamental waves  
 
+## 
 - **Particles** = localized, stable standing wave knots.
 - **Forces** = phase-locked interference patterns.
 - **Gravity** = curvature of wave trajectories through interference, not spacetime.
