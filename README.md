@@ -9,33 +9,32 @@
 
 🌌 **Overview**  
 Trōṇa Siddhāntam proposes a novel framework to understand the universe as a continuous medium of resonant waves called the **Tarangi**.  
-All physical phenomena—particles, forces, space, and time—emerge from patterns of wave resonance and dynamic plucking within this substrate.
+All physical phenomena—particles, forces, space, and time—emerge from patterns of **plucks (Trōṇas)** and **resonant knots (Dhruva)** formed within this wave-substrate.
 
 ---
 
 ⚛️ **Foundational Premise**  
 Reality is fundamentally wave-like, always in motion, and embedded in a continuous medium.  
-Rather than discrete particles or static fields, **everything is flow**—structured as dynamic **resonant knots** in the Tarangi.  
-This worldview reinterprets physics through resonance, emergence, and sustained vibrational interactions.
+Rather than discrete particles or static fields, **everything is flow**—driven by dynamic **Trōṇas (plucks)** which create, disturb, or dissolve **Dhruvas (resonant knots)** in the Tarangi.
 
 ---
 
 🌐 **Core Concepts**
 
 ### I. Tarangi  
-The universal wave medium, omnipresent and continuous. All phenomena exist as fluctuations within this field.
+The universal wave medium, omnipresent and continuous. All phenomena exist as structured fluctuations within this medium.
 
-### II. Resonant Knots (Trōṇas)  
-Localized, stable, self-sustaining wave configurations that give rise to what we perceive as particles or persistent forms.
+### II. Dhruva (Resonant Knots)  
+Stable, self-sustaining configurations of resonance—akin to particles or persistent structures—held together through equilibrium in the wave field.
 
-### III. Plucking Mechanism  
-The dynamic act of interaction — where energy input disturbs and excites specific resonant modes, creating new knots or modifying existing ones.
+### III. Trōṇa (Pluck)  
+A dynamic excitation — the act of disturbing the Tarangi to trigger or shift resonance, creating new Dhruvas or transforming existing ones.
 
 ### IV. Emergence of Space and Time  
-Space and time are not fundamental; they arise from wave relationships — the timing, spacing, and interference of resonances.
+Space and time emerge from patterns of relational wave propagation, as plucks and knots define reference and duration.
 
 ### V. Entropy and Thermodynamics  
-A wave-centric interpretation of thermodynamics where knot stability and decay map to energetic dispersion and entropic flow.
+Thermodynamic behavior is seen as a natural outcome of the stability, decay, and transformation of Dhruvas under sustained or dissipative plucking.
 
 ---
 
@@ -43,37 +42,38 @@ A wave-centric interpretation of thermodynamics where knot stability and decay m
 
 | Standard Concept         | Trōṇa Siddhāntam’s View                            |
 |-------------------------|----------------------------------------------------|
-| Particles               | Stable resonant wave knots                         |
-| Force fields            | Interference-driven plucking and wave dynamics     |
-| Spacetime               | Emergent from relational wave resonance            |
-| Quantum uncertainty     | A byproduct of knot instability and resonance decay|
-| Gravity                 | Macro-resonant curvature within the Tarangi        |
+| Particles               | Dhruvas — stable resonant wave knots               |
+| Interactions/Forces     | Trōṇas — plucking events in the Tarangi            |
+| Spacetime               | Emergent from relational resonance and timing      |
+| Quantum uncertainty     | Result of knot instability and pluck interference  |
+| Gravity                 | Large-scale curving resonances in the Tarangi      |
 
 ---
 
 🔍 **Recent Insights / Highlights**  
-- Developed a conceptual model linking knot lifetimes to resonance decay and thermodynamic entropy.  
-- Positioned outer galactic structures as **resonance boundaries**, not just gravitational peripheries.  
+- Clarified **Dhruva–Trōṇa distinction** as core to the system’s dynamics.  
+- Proposed outer galactic boundaries as **resonance shells**, not merely gravitational edges.  
+- Reframed entropy as **dissolution of sustained knot patterns** due to unresolved or chaotic plucks.
 
 ---
 
 📚 **References**  
-- Wave-based interpretations of field theories  
-- Emergence in condensed matter and quantum gravity research  
-- Classical resonance theory and harmonic systems  
-- (To be expanded with specific papers and citations)
+- Wave mechanics and harmonic resonance theory  
+- Emergent spacetime literature in physics  
+- Classical field theory with non-particle interpretations  
+- (Additional sources to be added)
 
 ---
 
 📢 **Contributing**  
 We welcome contributions!  
-Whether you're a physicist, programmer, philosopher, or just curious — your input matters.  
+Whether you're a physicist, coder, artist, or theorist — your input is valuable.
 
-Open a GitHub issue to:  
-- Ask a question  
-- Challenge an assumption  
-- Suggest analogies or clarifications  
-- Contribute illustrations or simulations
+Open a GitHub issue or pull request to:  
+- Suggest refinements  
+- Propose analogies or visualizations  
+- Identify inconsistencies or challenges  
+- Translate concepts into other frameworks (physics, programming, AI)
 
 ---
 
@@ -82,7 +82,7 @@ This work is licensed under the [Creative Commons Attribution 4.0 International 
 
 You are free to:  
 - **Share** — copy and redistribute the material  
-- **Adapt** — remix, transform, and build upon it for any purpose, even commercially  
+- **Adapt** — remix, transform, and build upon it for any purpose  
 
 **Under the following terms:**  
 - **Attribution** — You must give proper credit and indicate if changes were made.
