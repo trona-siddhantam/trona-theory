@@ -1,147 +1,96 @@
 # Trōṇa Siddhāntam (Pluck Theory)  
 *A Unified Wave-Resonance Ontology of Reality*
 
----
-
-**Author:** Trōṇa Tanrangi  
-**Email:** tronatheory@gmail.com  
-**GitHub:** [github.com/throna-siddhantam](https://github.com/throna-siddhantam)
+**Author**: Trōṇa Tarangi  
+**Email**: tronatheory@gmail.com  
+**GitHub**: [github.com/throna-siddhantam](https://github.com/throna-siddhantam)
 
 ---
 
-## 🌌 Overview
-
-Trōṇa Siddhāntam proposes a novel framework to understand the universe:  
-**Everything is composed of waves resonating in a fundamental medium called the Tarangi.**  
-
-Particles, forces, space, time, gravity, and even consciousness emerge naturally from these wave interactions.
-
-> *This is a conceptual and exploratory model under active development. Contributions, critiques, and formalizations are warmly welcome.*
+🌌 **Overview**  
+Trōṇa Siddhāntam proposes a novel framework to understand the universe as a continuous medium of resonant waves called the **Tarangi**.  
+All physical phenomena—particles, forces, space, and time—emerge from patterns of wave resonance and dynamic plucking within this substrate.
 
 ---
 
-## ⚛️ Foundational Premise: Only Waves Exist
-
-- Reality is built from a continuous, all-permitting wave substrate — **the Tarangi**.  
-- There are no fundamental particles, fields, or spacetime; all observed phenomena are emergent patterns of intersecting, resonating waves.
-
----
-
-## 🌐 Core Concepts
-
-### I. Emergence of Particles and Fields
-
-1. **Particles = Resonant Knots (Trōṇas)**  
-   Stable intersections of multiple waves form coherent oscillation zones — these knots correspond to particles.
-
-2. **Fields = Statistical Recurrence Zones**  
-   What physics calls fields are zones where specific wave modes recur with high probability.
+⚛️ **Foundational Premise**  
+Reality is fundamentally wave-like, always in motion, and embedded in a continuous medium.  
+Rather than discrete particles or static fields, **everything is flow**—structured as dynamic **resonant knots** in the Tarangi.  
+This worldview reinterprets physics through resonance, emergence, and sustained vibrational interactions.
 
 ---
 
-### II. Forces and Interactions
+🌐 **Core Concepts**
 
-3. **Forces = Resonance Adjustments**  
-   All forces arise from phase interactions of waves:  
-   - *Phase-locking* corresponds to binding forces.  
-   - *Phase-breaking* corresponds to scattering or decay.
+### I. Tarangi  
+The universal wave medium, omnipresent and continuous. All phenomena exist as fluctuations within this field.
 
-4. **Charge = Symmetry of Coupling**  
-   Charge and quantum numbers emerge as harmonic phase symmetries. Antiparticles correspond to phase inversions.
+### II. Resonant Knots (Trōṇas)  
+Localized, stable, self-sustaining wave configurations that give rise to what we perceive as particles or persistent forms.
 
----
+### III. Plucking Mechanism  
+The dynamic act of interaction — where energy input disturbs and excites specific resonant modes, creating new knots or modifying existing ones.
 
-### III. Space, Gravity, and Time
+### IV. Emergence of Space and Time  
+Space and time are not fundamental; they arise from wave relationships — the timing, spacing, and interference of resonances.
 
-5. **Spacetime = Wave Medium**  
-   Space is the structured propagation of waves in Tarangi — waves **are** space.
-
-6. **Gravity = Wave Trajectory Bending**  
-   Massive knots create zones of constructive interference that bend other wave trajectories — experienced as gravity.
-
-7. **Time = Entropic Expansion**  
-   Time is emergent from increasing complexity and spreading resonance — the "arrow of time" reflects this entropic unfolding.
+### V. Entropy and Thermodynamics  
+A wave-centric interpretation of thermodynamics where knot stability and decay map to energetic dispersion and entropic flow.
 
 ---
 
-### IV. Cosmic Phenomena
+🔬 **Reimagined/Contrasted Concepts**
 
-8. **Black Holes = Resonant Traps**  
-   Self-reinforcing oscillation regions trap incoming waves; Hawking radiation is interpreted as loss of edge coherence.
-
-9. **Dark Matter = Non-Electromagnetic Resonant Knots**  
-   Stable wave knots that don’t couple electromagnetically but affect gravitational trajectories.
-
-10. **Dark Energy = Residual Tension**  
-    Primordial wave tension unfolds the universe on cosmic scales.
-
----
-
-## 🔬 Reimagined Physics Concepts
-
-| Standard Concept                | Pluck Theory View                                       |
-|-------------------------------|--------------------------------------------------------|
-| Quantum Field Theory           | No fundamental fields; only wave recurrence zones      |
-| Mass (Standard Model / Higgs) | Mass = trapped wave energy; no Higgs field required    |
-| Gravity (General Relativity)   | Not spacetime curvature; wave trajectory bending       |
-| Time                          | Emergent entropy; not fundamental dimension            |
-| Collapse (Copenhagen)          | No collapse; only wave reconfiguration on measurement |
-| Superposition                 | Built into internal resonance structure                 |
-| Entanglement                 | Shared phase geometry across the substrate             |
-| E = mc²                      | Mass = localized wave energy; equation retained but reinterpreted |
+| Standard Concept         | Trōṇa Siddhāntam’s View                            |
+|-------------------------|----------------------------------------------------|
+| Particles               | Stable resonant wave knots                         |
+| Force fields            | Interference-driven plucking and wave dynamics     |
+| Spacetime               | Emergent from relational wave resonance            |
+| Quantum uncertainty     | A byproduct of knot instability and resonance decay|
+| Gravity                 | Macro-resonant curvature within the Tarangi        |
 
 ---
 
-## 🔍 Recent Insights: Light, Gravity, and Particles
-
-- **Light and Gravity as Waves in Tarangi:** Light and gravity are manifestations of the same fundamental wave substrate. Light is the traveling wave itself, while particles emerge as localized resonant “knots” formed through wave interactions.
-
-- **Knots Form Upon Interaction:** Rather than particles being standalone “knots” traveling alone, knots form at points of wave interference or interaction—especially near observers or matter—giving rise to measurable quantum effects.
-
-- **Wave-Only Reality:** The wave substrate (Tarangi) carries energy intrinsically. Knots are not separate entities but stable patterns in the wave field, dynamically emerging and dissipating through resonance and observation.
-
-- **Unified Picture:** This interpretation unifies light, gravity, and particles as different expressions of wave resonance dynamics, emphasizing that observation and interaction play key roles in particle formation.
-
-These ideas continue to evolve and invite deeper mathematical formalization and experimental exploration.
+🔍 **Recent Insights / Highlights**  
+- Developed a conceptual model linking knot lifetimes to resonance decay and thermodynamic entropy.  
+- Positioned outer galactic structures as **resonance boundaries**, not just gravitational peripheries.  
 
 ---
 
-## 📚 References
-
-- Peskin & Schroeder, *An Introduction to Quantum Field Theory*  
-- Higgs, P. W., *Broken Symmetries and Gauge Boson Masses*  
-- Misner, Thorne, Wheeler, *Gravitation*  
-- T. Padmanabhan, *Gravitation: Foundations and Frontiers*  
-- Bohm, D., *Hidden Variables and Quantum Theory*  
-- Carroll, S., *From Eternity to Here*  
-- Zurek, W., *Decoherence and Quantum Origins of the Classical*  
-- Bohm & Hiley, *The Undivided Universe*  
-- Weinberg, S., *The Quantum Theory of Fields*
+📚 **References**  
+- Wave-based interpretations of field theories  
+- Emergence in condensed matter and quantum gravity research  
+- Classical resonance theory and harmonic systems  
+- (To be expanded with specific papers and citations)
 
 ---
 
-## 📢 Contributing
+📢 **Contributing**  
+We welcome contributions!  
+Whether you're a physicist, programmer, philosopher, or just curious — your input matters.  
 
-This is an open and evolving framework. Please open issues or pull requests to discuss ideas, add mathematical models, simulations, or visualizations.
+Open a GitHub issue to:  
+- Ask a question  
+- Challenge an assumption  
+- Suggest analogies or clarifications  
+- Contribute illustrations or simulations
 
 ---
 
-## ⚖️ License
-
-This work is licensed under the  
-**Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+⚖️ **License**  
+This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 You are free to:  
-- **Share** — copy and redistribute the material in any medium or format  
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+- **Share** — copy and redistribute the material  
+- **Adapt** — remix, transform, and build upon it for any purpose, even commercially  
 
-Under the following terms:  
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+**Under the following terms:**  
+- **Attribution** — You must give proper credit and indicate if changes were made.
 
-Author: Trōṇa Tanrangi  
-Source: [https://github.com/throna-siddhantam/throna-theory](https://github.com/throna-siddhantam/throna-theory)  
-License: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+**Author**: Trōṇa Tarangi  
+**Source**: [https://github.com/throna-siddhantam/trona-siddhantam](https://github.com/throna-siddhantam/trona-siddhantam)  
+**License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-*Crafted with passion, logic, and resonance — 2025 © Trōṇa Siddhāntam*
+*Crafted with passion, logic, and dedication — 2025 © Trōṇa Siddhāntam*
